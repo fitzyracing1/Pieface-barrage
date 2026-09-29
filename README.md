@@ -1,2 +1,5 @@
 # Pieface-barrage
-Barrage plain-language clone of fitzyracing1/Pieface
+
+Barrage clone of [fitzyracing1/Pieface](https://github.com/fitzyracing1/Pieface).
+
+Read [listing.barrage](listing.barrage).

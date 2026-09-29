@@ -1,0 +1,38 @@
+# Pieface
+
+> HTML door for Pie Face, the lightweight mobile OS idea (about 1/10 the usual process).
+
+## Purpose
+Explain Pieface as the OS shelf, not as Android or iOS. Source: fitzyracing1/Pieface.
+
+## How it works (plain English)
+1. Keep the original repo as the place for OS files.
+2. Aim for a small process.
+3. Build on a phone if that is the rule of the project.
+
+## Key ideas
+- Pie Face OS (lightweight mobile OS)
+- Small process
+- HTML snapshot in this repo
+
+## The actual code
+```
+# source: fitzyracing1/Pieface
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/Pieface”
+
+## Decisions the program makes
+- If a reader wants the chat archive → claude-pieface
+- If a reader wants this snapshot → stay on the source
+
+## What a person would notice
+A named wrap on the Pie Face OS door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
